@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Breakable
+  - Unbreakable
+  - Paddle
+  - Ball
+  - PowerUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ball
+  - PowerUps
+  - Bricks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3499894485
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Middleground
+    uniqueID: 2100612443
+    locked: 0
+  - name: Bullets
+    uniqueID: 1004586853
+    locked: 0
